@@ -1,0 +1,427 @@
+body{
+ margin:0;
+ padding: 0;
+ background: #F1FAEE
+}
+.name {
+    width: 100%;
+    height: 220px;
+    background: #2F93C2;
+    margin-top: 0;
+    
+}
+.name .img{
+    position:  absolute;
+    top: 1%;
+    left: 5%;
+    width: 190px;
+    height: 200px;
+    border-radius: 90%;
+    overflow: hidden;
+}
+.name .img img{
+    width:195px;
+    height: 256px;
+}
+.name .content{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 35%;
+}
+.name .content .p-1{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 45px; 
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.name .content .p-2{
+    color: blanchedalmond;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+.name .content .p-3{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+.Aboutme{
+    width: 90%;
+    height: auto;
+    background: #A8DADC;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.Aboutme .tituloSeccion{
+    color: #F1FAEE;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    display: inline;
+    text-align: left;
+    font-weight:  bolder;
+    border-bottom: 2px #2F93C2;
+    
+}
+
+.Aboutme .tituloInfo{
+    color: midnightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: large;
+    font-size: large;
+    display:  inline;
+    margin-right: 25px;
+}
+
+.Aboutme .infoInfo{
+    color: black;
+    font-family:  'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display:  inline;
+}
+
+.Aboutme .tituloInfo2{
+    color: midnightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: large;
+    font-size: large;
+    display:  inline;
+    margin-right: 140px;
+}
+
+.Aboutme .infoInfo2{
+    color: black;
+    font-family:  'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display:  inline;
+}
+
+
+.Aboutme .tituloInfo3{
+    color: midnightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: large;
+    font-size: large;
+    display:  inline;
+    margin-right: 100px;
+}
+
+.Aboutme .infoInfo3{
+    color: black;
+    font-family:  'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display:  inline;
+}
+
+
+.Aboutme .tituloSeccion2{
+    color: #F1FAEE;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    display: inline;
+    text-align: left;
+    font-weight:  bolder;
+    border-bottom: 2px #2F93C2;
+    
+}
+
+.Aboutme .tituloInfo4{
+    color: midnightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: large;
+    font-size: large;
+    display:  inline;
+    margin-right: 44px;
+}
+
+.Aboutme .infoInfo4{
+    color: black;
+    font-family:  'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display:  inline;
+}
+
+.Aboutme .tituloInfo5{
+    color: midnightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: large;
+    font-size: large;
+    display:  inline;
+    margin-right: 25px;
+}
+
+.Aboutme .infoInfo5{
+    color: black;
+    font-family:  'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display:  inline;
+}
+
+
+.Aboutme .tituloInfo6{
+    color: midnightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: large;
+    font-size: large;
+    display:  inline;
+    margin-right: 25px;
+}
+
+.Aboutme .infoInfo6{
+    color: black;
+    font-family:  'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display:  inline;
+}
+
+
+
+.Education{
+    width: 90%;
+    height: auto;
+    background: #A8DADC;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.Education .tituloSeccion{
+    color: #F1FAEE;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    display: inline;
+    text-align: left;
+    font-weight:  bolder;
+    border-bottom: 2px #2F93C2;
+    
+}
+
+.Education .tituloInfo{
+    color: midnightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: large;
+    font-size: large;
+    display:  inline;
+    margin-right: 25px;
+}
+
+.Education .infoInfo{
+    color: black;
+    font-family:  'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display:  inline;
+}
+
+.Education .tituloInfo2{
+    color: midnightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: large;
+    font-size: large;
+    display:  inline;
+    margin-right: 20px;
+}
+
+.Education .infoInfo2{
+    color: black;
+    font-family:  'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display:  inline;
+}
+
+
+.Education .tituloInfo3{
+    color: midnightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: large;
+    font-size: large;
+    display:  inline;
+    margin-right: 25px;
+}
+
+.Education .infoInfo3{
+    color: black;
+    font-family:  'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display:  inline;
+}
+
+
+.Education .tituloSeccion2{
+    color: #F1FAEE;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    display: inline;
+    text-align: left;
+    font-weight:  bolder;
+    border-bottom: 2px #2F93C2;
+    
+}
+
+.Education .listEducaction{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: large;
+    font-size: large;
+    display:  -ms-inline-flexbox;
+    margin-right: 10px;
+}
+
+.Skills{
+    width: 90%;
+    height: auto;
+    background: #A8DADC;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.Skills .tituloSeccion{
+    color: #F1FAEE;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    display: inline;
+    text-align: left;
+    font-weight:  bolder;
+    border-bottom: 2px #2F93C2;
+    
+}
+
+.Skills .listSkills{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: large;
+    font-size: large;
+    display:  -ms-inline-flexbox;
+    margin-right: 10px;
+}
+
+.Work-Skills{
+    width: 90%;
+    height: auto;
+    background: #A8DADC;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.Work-Skills .tituloSeccion{
+    color: #F1FAEE;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    display: inline;
+    text-align: left;
+    font-weight:  bolder;
+    border-bottom: 2px #2F93C2;
+    
+}
+
+.Work-Skills .listWorkSkills{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: large;
+    font-size: large;
+    display:  -ms-inline-flexbox;
+    margin-right: 10px;
+}
+
+
+.Work-Experience{
+    width: 90%;
+    height: auto;
+    background: #A8DADC;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.Work-Experience .tituloSeccion{
+    color: #F1FAEE;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    display: inline;
+    text-align: left;
+    font-weight:  bolder;
+    border-bottom: 2px #2F93C2;
+    
+}
+
+.Work-Experience .listWorkExperience{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: large;
+    font-size: large;
+    display:  -ms-inline-flexbox;
+    margin-right: 10px;
+}
+
+
+.Languages{
+    width: 90%;
+    height: auto;
+    background: #A8DADC;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.Languages .tituloSeccion{
+    color: #F1FAEE;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    display: inline;
+    text-align: left;
+    font-weight:  bolder;
+    border-bottom: 2px #2F93C2;
+    
+}
+
+.Languages .listLanguages{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: large;
+    font-size: large;
+    display:  -ms-inline-flexbox;
+    margin-right: 10px;
+}
+
+
+.Interests{
+    width: 90%;
+    height: auto;
+    background: #A8DADC;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.Interests .tituloSeccion{
+    color: #F1FAEE;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    display: inline;
+    text-align: left;
+    font-weight:  bolder;
+    border-bottom: 2px #2F93C2;
+    
+}
+
+.Interests .listInterests{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: large;
+    font-size: large;
+    display:  -ms-inline-flexbox;
+    margin-right: 10px;
+}
